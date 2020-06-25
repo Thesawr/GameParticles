@@ -1,0 +1,13 @@
+﻿  ColdNode.cpp
+  Timer.cpp
+  Trace.cpp
+  WinEventHandler.cpp
+  WinOpenGLDevice.cpp
+  HotNode.cpp
+  main.cpp
+  Matrix.cpp
+c:\users\visoot\desktop\p4v workspace\keenan2018fall_csc461\student\sworrasa\gameparticles\gameparticles\hotnode.cpp(44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Vect4D.cpp
+  Particle.cpp
+  ParticleEmitter.cpp
+  GameParticles.vcxproj -> C:\Users\visoot\Desktop\p4v workspace\keenan2018fall_csc461\student\sworrasa\GameParticles\Debug\GameParticles.exe

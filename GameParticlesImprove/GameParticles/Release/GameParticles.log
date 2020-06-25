@@ -1,0 +1,11 @@
+﻿  ParticleEmitter.cpp
+  main.cpp
+c:\users\visoot\desktop\p4v workspace\keenan2018fall_csc461\student\sworrasa\gameparticles\gameparticles\particleemitter.cpp(32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\visoot\desktop\p4v workspace\keenan2018fall_csc461\student\sworrasa\gameparticles\gameparticles\particleemitter.cpp(48): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\visoot\desktop\p4v workspace\keenan2018fall_csc461\student\sworrasa\gameparticles\gameparticles\particleemitter.cpp(48): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  2 of 76 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameParticles.vcxproj -> C:\Users\visoot\Desktop\p4v workspace\keenan2018fall_csc461\student\sworrasa\GameParticles\Release\GameParticles.exe

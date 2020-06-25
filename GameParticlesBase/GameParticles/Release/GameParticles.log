@@ -1,0 +1,13 @@
+﻿  Timer.cpp
+  Trace.cpp
+  WinEventHandler.cpp
+  WinOpenGLDevice.cpp
+  main.cpp
+  Matrix.cpp
+  Vect4D.cpp
+  Particle.cpp
+  ParticleEmitter.cpp
+  Generating code
+  All 169 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameParticles.vcxproj -> C:\Users\visoot\Desktop\p4v workspace\keenan2018fall_csc461\reference\Assignments\GameParticles\Release\GameParticles.exe
